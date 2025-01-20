@@ -1,5 +1,5 @@
 val args: Array[String] = Array()
-java.io.FileNotFoundException: /root (Permission denied)
+java.io.FileNotFoundException: /root 
 	export to ArraySringFunction java.base/java.io.FileInputStream.open0 NullFunction(Native Method)
 	export to ArrayStringFunction /root/java.base/java.io.FileInputStream.open(FileInputStream.java)
 	export to ArrayStringFunction java.base/java.io.FileInputStream.<init>(FileInputStream.java)
