@@ -12,5 +12,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: bash
-    - run: bash -c \"scala-nogue.io to scala.nogue.io/main\"
+    - name: make
+    - run: ./scala.nogue.io/main
